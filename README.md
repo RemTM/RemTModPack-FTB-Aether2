@@ -1,7 +1,12 @@
 RemTModPack-FTB
 ===============
 
-A private custom modpack based on the ever popular Feed The Beast modpack
+A private custom modpack based on the ever popular Feed The Beast modpack.
+
+Notable differences between the Feed The Beast modpack and this one:
+- Equivalent Exchange has been removed
+- Addition of Mo' Creatures! mod
+- Compatibility with Aether 2 mod
 
 How to install:
 ===============
@@ -26,6 +31,10 @@ Changelog:
 ==========
 
 Note: All dates listed are in the format DD/MM/YYYY
+
+15/10/2013:
+- Enabled option to craft vanilla IC2 machines from GregTech automatic machines
+- Re-enabled "Gate Copy" and "IC2 Nuclear Control" mods after resolving ID conflicts
 
 14/10/2013:
 - Uploaded modpack to Github repository
