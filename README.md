@@ -25,6 +25,8 @@ Server Rules:
 5. Aiding of other players in any fashion is allowed.
 6. A standard currency/economy system will be made available at a later date. Players are asked to follow the currency system once established to promote fair trade, but will not be enforced.
 
+If any of the first 3 rules are broken with no clear reason as to why it was broken, the player who broke the rule(s) will be punished. The severity of the punishment will be decided by me, the server admin, while taking into account any opinions voiced by any other players involved.
+
 Interested in Aether 2?
 =======================
 
