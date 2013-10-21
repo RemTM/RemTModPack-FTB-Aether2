@@ -15,6 +15,16 @@ How to install:
 2. Extract the contents of the .zip file to any location of your choice.
 3. Launch the MultiMC application, then in the window that pops up, double-click on the RemTModPack-FTB-Aether2 instance.
 
+Server Rules:
+=============
+
+1. NO GRIEFING OF ANY KIND (direct or indirect) is allowed on the server which will cause damage to another player's "property". This includes but is not limited to bases, items, owned mobs, etc.
+2. While killing another player directly is not permitted, indirect death is permitted as long as it does not break the 1st rule. Indirect death means that your player name must not show up as having killed another player. You will be penalised if this rule is broken.
+3. Any dropped items from players due to death indirectly caused by another player must be made available to the killed player whenever possible, otherwise it will be breaking the 1st rule.
+4. The rules above can be ignored if 2 or more players agree to "battle it out". The winner is free to take any items a player drops when defeated. The "battle arena" must be agreed upon by all players involved.
+5. Aiding of other players in any fashion is allowed.
+6. A standard currency/economy system will be made available at a later date. Players are asked to follow the currency system once established to promote fair trade, but will not be enforced.
+
 Interested in Aether 2?
 =======================
 
@@ -30,7 +40,18 @@ This will allow you to enjoy the added features Aether 2 provides, however it is
 Changelog:
 ==========
 
-Note: All dates listed are in the format DD/MM/YYYY
+Note: All dates listed are in the format DD/MM/YYYY according to Australian Eastern Standard Time (AEST)
+
+21/10/2013:
+- Added Recipe Remover mod for easier removal of recipes for items
+- Removal of Force Wrench recipe (may have caused server issues)
+- Nerfed sturdy flight in Dartcraft mod
+- Thermal Expansion machine recipes have been made harder
+- Thermal Expansion cobblestone generator are disabled (Any form of cobblestone generator is banned on the server)
+- Disabled uncrafting feature of the Uncrafting Table
+- Disabled ability to import Lua scripts for ComputerCraft from PasteBin (players are asked to write their own Lua code)
+- Enabled recycling of cobblestone and mob drops (originally disabled by GregTech)
+- Added Damage Indicators mod (enables tracking of entity hit points and damage inflicted)
 
 15/10/2013:
 - Enabled option to craft vanilla IC2 machines from GregTech automatic machines
