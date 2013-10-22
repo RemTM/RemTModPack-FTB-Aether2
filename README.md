@@ -4,7 +4,7 @@ RemTModPack-FTB
 A private custom modpack based on the ever popular Feed The Beast modpack.
 
 Notable differences between the Feed The Beast modpack and this one:
-- Equivalent Exchange has been removed
+- Equivalent Exchange and Minecraft Factory Reloaded have been removed
 - Addition of Mo' Creatures! mod
 - Compatibility with Aether 2 mod
 
