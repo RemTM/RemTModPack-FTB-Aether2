@@ -44,6 +44,9 @@ Changelog:
 
 Note: All dates listed are in the format DD/MM/YYYY according to Australian Eastern Standard Time (AEST)
 
+22/10/2012:
+- Added ability to view ticks per second in-game (type the '/btps' command in the in-game chat to use)
+
 21/10/2013:
 - Added Recipe Remover mod for easier removal of recipes for items
 - Removal of Force Wrench recipe (may have caused server issues)
