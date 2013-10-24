@@ -44,7 +44,15 @@ Changelog:
 
 Note: All dates listed are in the format DD/MM/YYYY according to Australian Eastern Standard Time (AEST)
 
-22/10/2012:
+24/10/2013:
+- Added Archimedes' Ships mod
+- Added qCraft mod
+- Added TukMC mod
+- Added Weeping Angels mod
+- Removed UgoCraft mod from pending features due to lack of server files
+- Updated configs to current working versions
+
+22/10/2013:
 - Added ability to view ticks per second in-game (type the '/btps' command in the in-game chat to use)
 
 21/10/2013:
