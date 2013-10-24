@@ -53,7 +53,7 @@ key_key.chat:20
 key_key.playerlist:15
 key_key.pickItem:-98
 key_Zoom:44
-key_key.command:53
+key_key.command:41
 key_ALT Key:56
 key_Boost Key:29
 key_Mode Switch Key:50
@@ -61,7 +61,7 @@ key_Side Inventory Key:19
 key_MoCreatures Jump:57
 key_MoCreatures Dismount:47
 key_MoCreatures GUI:64
-key_Gravi Fly Key:33
+key_Gravi Fly Key:21
 key_FZ Bag of Holding:41
 key_FZ Pocket Crafting Table:41
 key_Clipboard:46
@@ -75,12 +75,20 @@ key_Force Belt Slot 5:76
 key_Force Belt Slot 6:77
 key_Force Belt Slot 7:71
 key_Force Belt Slot 8:72
+key_key.archimedes.up:45
+key_key.archimedes.down:44
+key_key.archimedes.brake:46
+key_key.archimedes.align:13
+key_Reposition Mob Portrait:52
 key_Open MPS Keybind GUI:37
 key_Go Down (MPS Flight Control):44
 key_Cycle Tool Backward (MPS):-1
 key_Cycle Tool Forward (MPS):-1
 key_Zoom (MPS):44
 key_Cosmetic (MPS):38
+key_TukMC Show Tooltip:211
+key_TukMC Open Config:40
+key_TukMC Chat Command:53
 key_keybind.loco.faster:52
 key_keybind.loco.slower:51
 key_keybind.loco.mode:48
