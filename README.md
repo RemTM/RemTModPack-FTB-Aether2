@@ -30,7 +30,7 @@ If any of the first 3 rules are broken with no clear reason as to why it was bro
 Interested in Aether 2?
 =======================
 
-If you are interested in trying out the Aether 2 mod with this modpack, then follow these steps to install the modpack to your local copy of the modpack:
+If you are interested in trying out the Aether 2 mod with this modpack, then follow these steps to install the mod to your local copy of the modpack:
 
 1. Go to http://www.minecraftforum.net/topic/1842350-162-alpha-aether-ii-genesis-of-the-void-v1622-new-launcher-better-performance/
 2. Download the 1.5.2 client files for Aether 2. There is no need to download anything else.
